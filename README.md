@@ -1,4 +1,5 @@
-# GitHub: @WyattAlexander-001, Name: Wyatt Bushman
+# Name: Wyatt Bushman
+## GitHub: @WyattAlexander-001 
 
 - 📫 How to reach me: WBushman@Albany.Edu
 
