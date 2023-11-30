@@ -23,7 +23,9 @@ Bachelor of Science in Applied Biology
 
 ## Technical Skills:
 Languages: Java, SQL, JavaScript, HTML, CSS, C/C++, Python
+
 Frameworks: React Express Spring, Hibernate, Node.js
+
 Tools: Git, Linux, Eclipse
 
 ## Employment:
