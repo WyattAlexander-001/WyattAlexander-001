@@ -34,4 +34,15 @@ Text Student Auto, Albany, NY
 
 •	Designed and implemented a Python-based alarm automation system using Gmail API, automating manual process resulting in an annual saving of $7,300.
 
+## Projects:
+
+* Reddit Phrase Filter Google Chrome Extension	November 2023
+* * Deployed a Chrome extension that blocks user defined keywords and phrases.
+
+* AWK Interpreter	August 2023
+* * Built an AWK Interpreter in Java.
+
+* COVID-19 Data Analysis	July 2021
+* * Built an interactive dashboard for COVID-19 infection rates using SQL and Tableau.
+
 
