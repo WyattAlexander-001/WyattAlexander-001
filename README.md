@@ -36,13 +36,13 @@ Text Student Auto, Albany, NY
 
 ## Projects:
 
-* Reddit Phrase Filter Google Chrome Extension	November 2023
-* * Deployed a Chrome extension that blocks user defined keywords and phrases.
+### Reddit Phrase Filter Google Chrome Extension	November 2023
+* Deployed a Chrome extension that blocks user defined keywords and phrases.
 
-* AWK Interpreter	August 2023
-* * Built an AWK Interpreter in Java.
+### AWK Interpreter	August 2023
+* Built an AWK Interpreter in Java.
 
-* COVID-19 Data Analysis	July 2021
-* * Built an interactive dashboard for COVID-19 infection rates using SQL and Tableau.
+### COVID-19 Data Analysis	July 2021
+* Built an interactive dashboard for COVID-19 infection rates using SQL and Tableau.
 
 
