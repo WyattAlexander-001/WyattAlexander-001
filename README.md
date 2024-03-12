@@ -10,13 +10,18 @@ University at Albany 	Expected Fall 2024
 Bachelor of Science in Computer Science
 
 Related Coursework:
-  * ICISI201 Introduction to Computer Science
-  * ICSI210 Discrete Structures
-  * ICSI213 Data Structures
-  * ICSI 300Z Societal and Ethical Implications of Computing
-  * ICSI311 Principles of Programming Languages
-  * ICSI333 System Fundamentals
-  * ICSI410 Database Systems.
+  * ICISI-201 Introduction to Computer Science
+  * ICSI-210 Discrete Structures
+  * ICSI-213 Data Structures
+  * ICSI-300Z Societal and Ethical Implications of Computing
+  * ICSI-311 Principles of Programming Languages
+  * ICSI-333 System Fundamentals
+  * ICSI-403 Advance Analysis of Algorithms
+  * ICSI-404 Computer Architecture (Assembly)
+  * ICSI-410 Database Systems.
+  * ICSI-412 Operating Systems
+  * ICSI-418Y Software Engineering
+  * ICSI-426 Cryptography 
 
 Sage College of Albany 	May 2016
 Bachelor of Science in Applied Biology
