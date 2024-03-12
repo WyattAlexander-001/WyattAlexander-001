@@ -27,11 +27,11 @@ Sage College of Albany 	May 2016
 Bachelor of Science in Applied Biology
 
 ## Technical Skills:
-Languages: Java, SQL, JavaScript, HTML, CSS, C/C++, Python
+Languages: Java, SQL, JavaScript, HTML, CSS, C/C++, C#, Python, Ruby
 
-Frameworks: React Express Spring, Hibernate, Node.js
+Frameworks: React Express Spring, Hibernate, Node.js, Ruby On Rails
 
-Tools: Git, Linux, Eclipse
+Tools: Git, Linux, Bash, Zsh, Eclipse
 
 ## Employment:
 Software Engineer Contract	August 2023
