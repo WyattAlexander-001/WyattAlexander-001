@@ -18,7 +18,7 @@ Related Coursework:
   * ICSI-333 System Fundamentals
   * ICSI-403 Advance Analysis of Algorithms
   * ICSI-404 Computer Architecture (Assembly)
-  * ICSI-410 Database Systems.
+  * ICSI-410 Database Systems
   * ICSI-412 Operating Systems
   * ICSI-418Y Software Engineering
   * ICSI-426 Cryptography 
