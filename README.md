@@ -18,10 +18,16 @@ Related Coursework:
   * ICSI-333 System Fundamentals
   * ICSI-403 Advance Analysis of Algorithms
   * ICSI-404 Computer Architecture (Assembly)
+  * ICSI-409 Finite State Automata
   * ICSI-410 Database Systems
   * ICSI-412 Operating Systems
+  * ICSI-416 Computer Networking
   * ICSI-418Y Software Engineering
-  * ICSI-426 Cryptography 
+  * ICSI-426 Cryptography
+  * ICSI-445 Software Testing
+  * ICSI-451 Bayesian Analysis And Machine Learning
+  * ICSI-497 Compiler Academic Research
+  * ICSI-499 Senior Capstone
 
 Sage College of Albany 	May 2016
 Bachelor of Science in Applied Biology
