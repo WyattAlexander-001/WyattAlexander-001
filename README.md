@@ -5,9 +5,9 @@
 WBushman@Albany.Edu
 ```
 ## Technical Skills:
-Languages: Java, SQL, JavaScript, HTML, CSS, C/C++, C#, Python, Ruby
+Languages: Java, SQL, JavaScript, HTML, CSS, C/C++, C#, Python, Ruby, Matlab
 
-Frameworks: React Express Spring, Hibernate, Node.js, Ruby On Rails
+Frameworks: React, Express, Spring, Hibernate, Node.js, Ruby On Rails, Selenium, Playwright
 
 Tools: Git, Linux, Bash, Zsh, Eclipse
 
