@@ -14,11 +14,14 @@ Tools: Git, Linux, Bash, Zsh, Eclipse
 ## Employment:
 
 Software Engineer Current
+
 New York State ITS, Office of Children and Family Services, Albany, NY
+
 • Wrote automation scripts and unit tests to reduce manual testing, used playwright and selenium.
 • Worked with team in the: research, design, and implementation of testing strategies for 8 NYS webapps.
 
 Software Engineer Contract	August 2023
+
 Text Student Auto, Albany, NY
 
 •	Designed and implemented a Python-based alarm automation system using Gmail API, automating manual process resulting in an annual saving of $7,300.
