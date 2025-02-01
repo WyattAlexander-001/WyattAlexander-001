@@ -64,6 +64,7 @@ Prisoner Fencing
 ## Education:
 
 University at Albany 	December 2024
+
 Bachelor of Science in Computer Science
 
 Related Coursework:
@@ -87,6 +88,7 @@ Related Coursework:
   * ICSI-499 Senior Capstone
 
 Sage College of Albany 	May 2016
+
 Bachelor of Science in Applied Biology
 
 
