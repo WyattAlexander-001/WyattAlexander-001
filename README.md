@@ -14,7 +14,7 @@ Frameworks: React, Express, Playwright, Docusaurus, Azure DevOps, Waterfall, Agi
 
 ## Emperience:
 
-###Automation Engineer, NYS ITS Office of Children and Family Services 
+### Automation Engineer, NYS ITS Office of Children and Family Services 
 Albany, NY	May 2024 – Present
 * Improved test performance by 93% by implementing modular tests in Playwright
 * Enhanced documentation completeness by using AI tool Qodo, saving 40 hours of work weekly
@@ -63,7 +63,7 @@ Prisoner Fencing
 
 ## Education:
 
-University at Albany 	Expected Fall 2024
+University at Albany 	December 2024
 Bachelor of Science in Computer Science
 
 Related Coursework:
