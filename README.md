@@ -4,6 +4,9 @@
 ```
 WBushman@Albany.Edu
 ```
+
+[Portfolio](https://wyattalexander-001.github.io/Wyatt_B_Portfolio_Website/)
+
 ## Technical Skills:
 Languages: TypeScript, JavaScript, HTML, CSS, SQL, Java, C#
 
@@ -11,47 +14,51 @@ Frameworks: React, Express, Playwright, Docusaurus, Azure DevOps, Waterfall, Agi
 
 ## Emperience:
 
-Automation Engineer, NYS ITS Office of Children and Family Services – Albany, NY	May 2024 – Present
-Improved test performance by 93% by implementing modular tests in Playwright
-Enhanced documentation completeness by using AI tool Qodo, saving 40 hours of work weekly
-Implemented Playwright automation from scratch, reducing manual testers’ workload by 200 hours weekly
-Implemented the Page Object Model to create tailored helpers for each web page, reducing code redundancy
+###Automation Engineer, NYS ITS Office of Children and Family Services 
+Albany, NY	May 2024 – Present
+* Improved test performance by 93% by implementing modular tests in Playwright
+* Enhanced documentation completeness by using AI tool Qodo, saving 40 hours of work weekly
+* Implemented Playwright automation from scratch, reducing manual testers’ workload by 200 hours weekly
+* Implemented the Page Object Model to create tailored helpers for each web page, reducing code redundancy
 
-Compiler Research Intern, University At Albany SUNY – Albany, NY	May 2024 – December 2024
-Developed a C# math library including trig functions, absolute value, exponents, and square roots 
-Provided graphing capabilities by implementing Bresenham Line Algorithm
-Established centralized documentation using Docusaurus, reducing the need of GitHub wikis
-Maintained project momentum by hosting weekly scrum meetings to whiteboard solutions  
+### Compiler Research Intern, University At Albany SUNY
+Albany, NY	May 2024 – December 2024
+* Developed a C# math library including trig functions, absolute value, exponents, and square roots 
+* Provided graphing capabilities by implementing Bresenham Line Algorithm
+* Established centralized documentation using Docusaurus, reducing the need of GitHub wikis
+* Maintained project momentum by hosting weekly scrum meetings to whiteboard solutions  
 
-Software Developer Contract, Text Student Auto – Amsterdam, NY	June 2023 – September 2023
-Saved more than $7,300 annually by implementing a Python alarm application using Gmail API 
-Customized client experience by implementing user-set times and sound effects
-Facilitated easy user experience by providing clear documentation and instructions for software
+### Software Developer Contract, Text Student Auto
+Amsterdam, NY	June 2023 – September 2023
+* Saved more than $7,300 annually by implementing a Python alarm application using Gmail API 
+* Customized client experience by implementing user-set times and sound effects
+* Facilitated easy user experience by providing clear documentation and instructions for software
 
-QC Laboratory Technician, Specialty Silicone Products – Ballston Spa, NY	January 2021 – February 2022
-Founded a company waste initiative and reduced waste by 25% by labeling parts and removing excess equipment
-Implemented a system to anonymously submit employee ideas, integrating 5 ideas into daily operations
-Automated Excel reports and data entry by implementing template documents with conditional logic
-Tested approximately 50 silicone products daily with 100% success rate leading to no customer complaints 
+### QC Laboratory Technician, Specialty Silicone Products
+Ballston Spa, NY	January 2021 – February 2022
+* Founded a company waste initiative and reduced waste by 25% by labeling parts and removing excess equipment
+* Implemented a system to anonymously submit employee ideas, integrating 5 ideas into daily operations
+* Automated Excel reports and data entry by implementing template documents with conditional logic
+* Tested approximately 50 silicone products daily with 100% success rate leading to no customer complaints 
 
 
 ## Projects:
 
 Cutting Stock Calculator Website	
-Minimized wood waste for carpenters by ~60%  by implementing guillotine and shelf algorithms in JavaScript 
-Created a responsive mobile-first website with visualizations using HTML and CSS with easy instructions
+* Minimized wood waste for carpenters by ~60%  by implementing guillotine and shelf algorithms in JavaScript 
+* Created a responsive mobile-first website with visualizations using HTML and CSS with easy instructions
 
 Recycle Roller 3D Game	
-Implemented physics, player controls, a dynamic camera system in C#,  and created various level designs
-Achieved 3rd place out of 30 teams at UAlbany game jam with one colleague using Unity 
+* Implemented physics, player controls, a dynamic camera system in C#,  and created various level designs
+* Achieved 3rd place out of 30 teams at UAlbany game jam with one colleague using Unity 
 
 AllAboutAvocados.com	
-Developed a backend API with Express.js to enable user submissions of: avocado recipes, articles, and inquiries
-Implemented frontend design with CSS, a user XP system in JavaScript, and added web content 
+* Developed a backend API with Express.js to enable user submissions of: avocado recipes, articles, and inquiries
+* Implemented frontend design with CSS, a user XP system in JavaScript, and added web content 
 
 Prisoner Fencing	
-Developed logic, a dynamic UI in GDScript, version control with GitHub, and polished with commercial-free assets
-Deployed a turn-based browser game based on Prisoner’s Dilemma in Godot using iterative playtesting
+* Developed logic, a dynamic UI in GDScript, version control with GitHub, and polished with commercial-free assets
+* Deployed a turn-based browser game based on Prisoner’s Dilemma in Godot using iterative playtesting
 
 
 ## Education:
