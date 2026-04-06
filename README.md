@@ -7,15 +7,11 @@ WBushman@Albany.Edu
 
 [Portfolio](https://wyattalexander-001.github.io/Wyatt_B_Portfolio_Website/)
 
-## Technical Skills:
-Languages: TypeScript, JavaScript, HTML, CSS, SQL, Java, C#
-
-Frameworks: React, Express, Playwright, Docusaurus, Azure DevOps, Waterfall, Agile
-
 ## Emperience:
 
-### Automation Engineer, NYS ITS Office of Children and Family Services 
+### Information Technology Specialist II,, NYS ITS Office of Children and Family Services (OCFS)
 Albany, NY	May 2024 – Present
+* Designed and built federal record audit review templates using Microsoft Power Apps Canvas Apps improving consistency and audit readiness
 * Improved test performance by 93% by implementing modular tests in Playwright
 * Enhanced documentation completeness by using AI tool Qodo, saving 40 hours of work weekly
 * Implemented Playwright automation from scratch, reducing manual testers’ workload by 200 hours weekly
@@ -60,6 +56,9 @@ Prisoner Fencing
 * Developed logic, a dynamic UI in GDScript, version control with GitHub, and polished with commercial-free assets
 * Deployed a turn-based browser game based on Prisoner’s Dilemma in Godot using iterative playtesting
 
+## Technical Skills:
+Languages: TypeScript, JavaScript, HTML, CSS, SQL, Java, C#
+Frameworks: React, Express, Playwright, Docusaurus
 
 ## Education:
 
